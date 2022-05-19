@@ -2,7 +2,7 @@ package main
 
 import "net/http"
 
-// swagger:route GET /v1/health healthcheck
+// swagger:route GET /health healthcheck
 //
 // Get information about the application status, operating environment and version.
 //

@@ -13,7 +13,7 @@
   "host": "localhost:3001",
   "basePath": "/",
   "paths": {
-    "/v1/health": {
+    "/health": {
       "get": {
         "summary": "Get information about the application status, operating environment and version.",
         "operationId": "healthcheck",
